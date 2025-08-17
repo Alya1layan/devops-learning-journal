@@ -1,0 +1,25 @@
+Week 6 – Jenkins & CI/CD Ecosystem
+
+
+What I Learned
+- Jenkins fundamentals: installation, setup, and job configuration  
+- Build triggers (manual, scheduled, and webhook-based)  
+- Jenkins plugins for extending functionality  
+- Versioning strategies in Jenkins pipelines  
+- SonarQube integration for static code analysis  
+- Quality Gates to enforce coding standards  
+- Nexus for artifact management  
+- Slack notifications for build results  
+- Jenkins nodes/agents for distributed builds  
+- Authentication and Role-Based Access Control (RBAC)  
+
+What I Practiced
+- Built and configured multiple Jenkins jobs  
+- Integrated SonarQube and applied Quality Gates in a sample project  
+- Deployed artifacts using Nexus demo setup  
+- Connected Slack for build failure/success notifications  
+- Configured a Jenkins node to distribute workloads  
+- Tested RBAC by setting different permissions for users  
+
+Up Next
+- Re-visit Python for automation in relation to devops
